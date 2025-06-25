@@ -1,17 +1,17 @@
 
-# 🚗📊 Fuel Price Impact on Transport Inflation in India (Bivariate Regression)
+# Fuel Price Impact on Transport Inflation in India (Bivariate Regression)
 
 This project analyzes how **Crude Oil Prices (USD)** and **Retail Fuel Prices (INR)** influence **Transport & Communication CPI** in India using a **Bivariate Linear Regression** model.
 
 ---
 
-## 🔍 Objective
+## Objective
 
 To evaluate the combined impact of global crude oil prices and domestic retail fuel prices on India's transport-related inflation using regression analysis.
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - Monthly **CPI data** from MoSPI (India)
 - **Crude Oil Prices (USD)** – global benchmark
@@ -19,7 +19,7 @@ To evaluate the combined impact of global crude oil prices and domestic retail f
 
 ---
 
-## ⚙️ Methodology
+## ⚙Methodology
 
 - **Data Processing:** Cleaned, aligned, and merged all inputs
 - **Phase 2:** Univariate Regression using crude oil price
@@ -29,7 +29,7 @@ To evaluate the combined impact of global crude oil prices and domestic retail f
 
 ---
 
-## 📊 Output Summary
+## Output Summary
 
 - 📄 `bivariate_metrics.csv` – Model performance metrics
 - 📄 `bivariate_predictions.csv` – Actual vs Predicted CPI values
@@ -37,7 +37,7 @@ To evaluate the combined impact of global crude oil prices and domestic retail f
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 fuel_transport_regression_project_v2/
 │
@@ -55,6 +55,6 @@ fuel_transport_regression_project_v2/
 
 ---
 
-## ✅ Status: Phase 3 Complete
+## Status: Phase 3 Complete
 
 Model finalized, evaluated, and visualized. Project is ready for GitHub deployment and report generation.
